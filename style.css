@@ -1,0 +1,20 @@
+th {
+    cursor: pointer;
+}
+/*[data-sort="asc"]:after {*/
+/*    content: "";*/
+/*    width: 0;*/
+/*    height: 0;*/
+/*    border-style: solid;*/
+/*    border-width: 15px 7.5px 0 7.5px;*/
+/*    border-color: #007bff transparent transparent transparent;*/
+/*}*/
+
+/*[data-sort="desc"]:after {*/
+/*    content: "";*/
+/*    width: 0;*/
+/*    height: 0;*/
+/*    border-style: solid;*/
+/*    border-width: 0 7.5px 15px 7.5px;*/
+/*    border-color: transparent transparent #007bff transparent;*/
+/*}*/
